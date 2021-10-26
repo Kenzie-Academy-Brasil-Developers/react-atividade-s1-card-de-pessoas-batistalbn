@@ -1,0 +1,20 @@
+.desenvolvedores {
+  background-color: blueviolet;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  width: 140px;
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+span {
+  font-weight: 600;
+}
+
+@media screen and (min-width: 800px) {
+  .desenvolvedores {
+    height: 170px;
+  }
+}
